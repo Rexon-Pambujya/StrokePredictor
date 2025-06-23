@@ -124,6 +124,8 @@ _Visuals included in Jupyter notebook (not shown here)._
 
 To achieve **≥ 90% recall**, we searched the precision‑recall curve and selected the **highest threshold** meeting the target:
 
+> This threshold was chosen because it is better to classify a person in a risk category than to miss a patient with a high heart stroke risk.
+
 ```python
 from sklearn.metrics import precision_recall_curve
 prec, rec, thr = precision_recall_curve(y_val, y_proba)
