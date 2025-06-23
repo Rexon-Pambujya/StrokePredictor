@@ -1,6 +1,6 @@
 # Stroke Prediction Web App
 
-![Screenshot of a Stroke Risk Predictor web application interface.](images/Screenshot 2025-06-23 004028.png)
+![Screenshot of a Stroke Risk Predictor web application interface.](https://github.com/Rexon-Pambujya/StrokePredictor/blob/main/images/Screenshot%202025-06-23%20004028.png)
 
 ## 🚀 Project Overview
 
@@ -47,12 +47,6 @@ This project builds a machine learning pipeline in Python to predict the risk of
 
    ```bash
    pip install -r requirements.txt
-   ```
-
-   _If `requirements.txt` is not provided, install manually:_
-
-   ```bash
-   pip install pandas numpy scikit-learn imbalanced-learn xgboost streamlit matplotlib
    ```
 
 ---
@@ -181,6 +175,8 @@ python -m streamlit run app.py
 - The app opens in your browser at `http://localhost:8501`.
 
 ---
+
+![Streamlit interface](https://github.com/Rexon-Pambujya/StrokePredictor/blob/main/images/Screenshot%202025-06-22%20015104.png)
 
 ## 📚 Future Work
 
