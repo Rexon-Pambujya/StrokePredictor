@@ -1,5 +1,9 @@
 # Stroke Prediction Web App
 
+## 🧠 Project Description: Stroke Prediction Web App
+
+This project aims to build a machine learning-powered web application that predicts the probability of stroke in individuals based on health and demographic factors. Using a cleaned and preprocessed healthcare dataset, multiple models were trained and evaluated to identify individuals at high risk.
+
 ![Screenshot of a Stroke Risk Predictor web application interface.](https://github.com/Rexon-Pambujya/StrokePredictor/blob/main/images/Screenshot%202025-06-23%20004028.png)
 
 ## 🚀 Project Overview
